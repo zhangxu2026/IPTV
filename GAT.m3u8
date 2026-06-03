@@ -1506,3 +1506,664 @@ https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
 #EXTINF:-1 group-title="•台湾" tvg-logo="https://epg.yang-1989.eu.org/logo/豬哥亮歌廳秀.png",豬哥亮歌廳秀「4gTV」
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv006/index.m3u8
 
+
+#EXTINF:-1 group-title="音乐综艺",[V]频道
+http://125.227.210.55:4043/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",amc 电影台
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv017/index.m3u8
+https://tv123.cc.cd/live.php/?ch=e53e03a6513
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+http://211.23.95.147:18881/live/69_h265.ts
+http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="电影戏剧",amc 电影台
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png",amc 电影台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=39
+#EXTINF:-1 group-title="儿童卡通",ANIMAX
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png",ARIRANG阿里郎頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=189
+#EXTINF:-1 group-title="电影戏剧",AXN
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",BBC World News
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png",Bloomberg TV
+https://ha.msbot.dpdns.org/4gtv_api.php?id=283
+#EXTINF:-1 group-title="音乐综艺",CHANNEL [V]
+https://cdn.19891230.eu.org/api/MTV-Live/index.m3u8
+https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png",CI 罪案偵查頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=215
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png",CinemaWorld
+https://ha.msbot.dpdns.org/4gtv_api.php?id=225
+#EXTINF:-1 group-title="电影戏剧",CinemaWorld
+https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+#EXTINF:-1 group-title="电影戏剧",CINEMAX
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png",CLASSICA 古典樂
+https://ha.msbot.dpdns.org/4gtv_api.php?id=80
+#EXTINF:-1 group-title="音乐综艺",CMusic
+https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+#EXTINF:-1 group-title="新闻财经",cna
+http://125.227.210.55:4044/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",CNBC
+http://125.227.210.55:1002/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv130_mobile.png",CNBC Asia 財經台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=235
+#EXTINF:-1 group-title="新闻财经",CNN
+http://125.227.210.55:3026/VideoInput/play.ts
+#EXTINF:-1 group-title="儿童卡通",CN卡通频道
+http://125.227.210.55:3027/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",Dreamworks
+https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
+http://142.171.248.206:5050/smart.php?id=Dreamworks&token=885252
+https://stream1.freetv.fun/507234129b2f546137c7b8b705ca753f3b9492cec252541fd10d868814247272.m3u8
+#EXTINF:-1 group-title="儿童卡通",DreamWorks
+https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
+http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png",DreamWorks 梦工厂动画
+https://ha.msbot.dpdns.org/4gtv_api.php?id=282
+#EXTINF:-1 group-title="儿童卡通",DreamWorks 梦工厂动画
+https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png",DW德國之聲
+https://ha.msbot.dpdns.org/4gtv_api.php?id=226
+#EXTINF:-1 group-title="综合",DW德國之聲
+https://cdn.19891230.eu.org/4gtv/4gtv-live071/index.m3u8
+https://tv123.cc.cd/live.php/?ch=ddba298c502
+http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="儿童卡通",ELTV生活英語台
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang20/index.m3u8
+http://106.107.242.201:50007/litv-xinchuang20/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.webp",ELTV生活英語台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=490
+#EXTINF:-1 group-title="综合",France 24
+https://cdn.19891230.eu.org/4gtv/4gtv-live146/index.m3u8
+https://tv123.cc.cd/live.php/?ch=7be984c1503
+http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png",FRANCE 24
+https://ha.msbot.dpdns.org/4gtv_api.php?id=316
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png",fun探索娛樂台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=274
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live139_mobile.png",GagaOOLala 精選LGBTQ+好劇
+https://ha.msbot.dpdns.org/4gtv_api.php?id=478
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/getwin頻道LOGO.png",Getwin Sports運動台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=93
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png",GINX Esports TV
+https://ha.msbot.dpdns.org/4gtv_api.php?id=179
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png",Global Trekker
+https://ha.msbot.dpdns.org/4gtv_api.php?id=252
+#EXTINF:-1 group-title="电影戏剧",HBO
+http://125.227.210.55:3013/VideoInput/play.ts
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png",History 歷史頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=214
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png",HITS頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=186
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.png",INULTRA
+https://ha.msbot.dpdns.org/4gtv_api.php?id=444
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png",KLT-靖天國際台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=84
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png",Lifetime 娛樂頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=217
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png",LiveABC互動英語頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=188
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png",Love Nature
+https://ha.msbot.dpdns.org/4gtv_api.php?id=139
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png",LUXE TV Channel
+https://ha.msbot.dpdns.org/4gtv_api.php?id=175
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png",MagellanTV頻道 (麥哲倫頻道)
+https://ha.msbot.dpdns.org/4gtv_api.php?id=450
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png",Mezzo Live HD
+https://ha.msbot.dpdns.org/4gtv_api.php?id=79
+#EXTINF:-1 group-title="儿童卡通",MOMO 親子台
+https://cdn.19891230.eu.org/4gtv/4gtv-live107/index.m3u8
+http://iptv.4666888.xyz/iptv2A.php?id=49
+https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
+http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png",MOMO 親子台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=231
+#EXTINF:-1 group-title="电影戏剧",My Cinema Europe HD
+https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png",My Cinema Europe HD
+https://ha.msbot.dpdns.org/4gtv_api.php?id=463
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png",NHK WORLD-JAPAN
+https://ha.msbot.dpdns.org/4gtv_api.php?id=461
+#EXTINF:-1 group-title="综合",NHK新聞資訊台
+https://cdn.19891230.eu.org/4gtv/4gtv-live168/index.m3u8
+https://tv123.cc.cd/live.php/?ch=11ac5975504
+http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png",Nice TV 靖天歡樂台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=119
+#EXTINF:-1 group-title="儿童卡通",Nick Jr. 兒童頻道
+https://cdn.19891230.eu.org/4gtv/4gtv-live032/index.m3u8
+http://49.213.188.67:50002/index.m3u8?pid=4gtv-live105@185&fun=TV4GTV&proxy=true&token=8852
+http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png",Nick Jr. 兒童頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=219
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png",Pet Club TV
+https://ha.msbot.dpdns.org/4gtv_api.php?id=464
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png",ROCK Action
+https://ha.msbot.dpdns.org/4gtv_api.php?id=180
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png",ROCK Entertainment
+https://ha.msbot.dpdns.org/4gtv_api.php?id=275
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live124.png",ROCK Xstream搖滾極限頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=485
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png",SBN全球財經台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=224
+#EXTINF:-1 group-title="新闻财经",Taiwan Plus
+http://125.227.210.55:3083/VideoInput/play.ts
+#EXTINF:-1 group-title="旅游时尚",TLC旅游生活
+http://125.227.210.55:4047/VideoInput/play.ts
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png",TRACE Sport Stars
+https://ha.msbot.dpdns.org/4gtv_api.php?id=57
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png",TRACE Urban
+https://ha.msbot.dpdns.org/4gtv_api.php?id=78
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png",TV5MONDE STYLE HD 生活時尚
+https://ha.msbot.dpdns.org/4gtv_api.php?id=178
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png",TVBS
+https://ha.msbot.dpdns.org/4gtv_api.php?id=183
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png",TVBS
+https://ha.msbot.dpdns.org/4gtv_api.php?id=472
+#EXTINF:-1 group-title="综合",TVBS
+http://125.227.210.55:3048/VideoInput/play.ts
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png",TVBS歡樂台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=184
+#EXTINF:-1 group-title="综合",TVBS歡樂台
+http://125.227.210.55:3047/VideoInput/play.ts
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png",TVBS精采台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=227
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live088_mobile.png",TVBS台劇台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=477
+#EXTINF:-1 group-title="新闻财经",TVBS新闻
+http://125.227.210.55:3046/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png",TVBS新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png",TVBS新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live087_mobile.png",TVBS綜藝台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=476
+#EXTINF:-1 group-title="综合",ViuTV
+https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
+https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
+#EXTINF:-1 group-title="综合",ViuTV 6
+https://cdn.19891230.eu.org/hk/ViuTVsix/index.m3u8
+https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
+#EXTINF:-1 group-title="运动体育",爱尔达体育1
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
+#EXTINF:-1 group-title="运动体育",爱尔达体育1
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/頻道LOGO去背.png",愛爾達寵物運動台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=19
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png",愛爾達生活旅遊台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=237
+#EXTINF:-1 group-title="音乐综艺",愛爾達娛樂
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv070/index.m3u8
+http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合",八大第一
+http://125.227.210.55:1085/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png",八大精彩台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=172
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png",八大綜藝台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=114
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv410_mobile.png",八大綜藝台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=276
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png",半島國際新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=462
+#EXTINF:-1 group-title="运动体育",博斯高球
+http://125.227.210.55:3059/VideoInput/play.ts
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png",博斯高球
+https://ha.msbot.dpdns.org/4gtv_api.php?id=486
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png",博斯高球
+https://ha.msbot.dpdns.org/4gtv_api.php?id=264
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png",博斯高球二台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=494
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang04.png",博斯魅力台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=493
+#EXTINF:-1 group-title="运动体育",博斯网球
+http://125.227.210.55:3060/VideoInput/play.ts
+#EXTINF:-1 group-title="运动体育",博斯网球
+http://67.220.71.199:2347/livehttpplay?channel_id=42026http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34901
+https://iptv.852851.xyz/ch/1c0e5173c5b9386231fca5f45448439e/master.m3u8
+http://106.107.242.201:50007/litv-xinchuang09/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+https://cdn.19891230.eu.org/tw/Tennis-Channel/index.m3u8
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png",博斯网球
+https://ha.msbot.dpdns.org/4gtv_api.php?id=488
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png",博斯网球
+https://ha.msbot.dpdns.org/4gtv_api.php?id=267
+#EXTINF:-1 group-title="运动体育",博斯無限二台
+https://cdn.19891230.eu.org/tw/Unlimited-Channel-2/index.m3u8
+http://106.107.242.201:50007/litv-xinchuang13/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang13.png",博斯無限二台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=496
+#EXTINF:-1 group-title="运动体育",博斯無限台
+https://cdn.19891230.eu.org/tw/Unlimited-Channel/index.m3u8
+http://106.107.242.201:50007/litv-xinchuang10/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png",博斯無限台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=266
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png",博斯無限台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=489
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang08.png",博斯運動二台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=495
+#EXTINF:-1 group-title="运动体育",博斯運動一台
+http://125.227.210.55:8173/VideoInput/play.ts
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png",博斯運動一台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=487
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png",博斯運動一台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=265
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png",采昌影剧台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=25
+#EXTINF:-1 group-title="电影戏剧",采昌影剧台
+https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+#EXTINF:-1 group-title="运动体育",車迷 TV
+https://cdn.19891230.eu.org/4gtv/4gtv-live201/index.m3u8
+http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+https://tv123.cc.cd/live.php/?ch=fdec9798378
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png",車迷TV
+https://ha.msbot.dpdns.org/4gtv_api.php?id=160
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png",達文西頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=11
+#EXTINF:-1 group-title="旅游时尚",大爱2台
+https://cdn.19891230.eu.org/4gtv/4gtv-live106/index.m3u8
+https://tv123.cc.cd/live.php/?ch=d98c14be563
+https://tv123.cc.cd/live.php/?ch=7a21ed6c2181
+http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png",大愛電視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=209
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png",大愛二台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=230
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png",電影原聲台CMusic
+https://ha.msbot.dpdns.org/4gtv_api.php?id=218
+#EXTINF:-1 group-title="新闻财经",东森财经
+http://125.227.210.55:4051/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",东森超视
+http://125.227.210.55:1087/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",东森电影
+http://125.227.210.55:3052/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",东森电影
+https://smt.1678520.xyz/163189/dsdy
+#EXTINF:-1 group-title="电影戏剧",东森戏剧
+https://smt.1678520.xyz/163189/dsxj
+#EXTINF:-1 group-title="新闻财经",东森新闻
+http://211.72.174.95:8138/0.ts
+#EXTINF:-1 group-title="新闻财经",东森新闻
+http://125.227.210.55:4046/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",东森洋片
+http://125.227.210.55:3055/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",东森洋片
+http://125.227.210.55:3078/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",东森洋片
+https://smt.1678520.xyz/163189/dsyp
+#EXTINF:-1 group-title="儿童卡通",东森幼幼
+http://125.227.210.55:4052/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png",東森財經新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=293
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png",東森財經新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=211
+#EXTINF:-1 group-title="综合",東森財經新聞
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv153/index.m3u8
+http://211.23.95.147:18881/live/57_h265.ts
+mitv://64.32.9.99:7999/880cd9d3d0ce24249a6441a04bffd04a.ts
+#EXTINF:-1 group-title="综合",東森財經新聞
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv153/index.m3u8
+http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="旅游时尚",東森購物二台
+https://cdn.19891230.eu.org/4gtv/4gtv-live046/index.m3u8
+http://106.107.242.201:50007/4gtv-live046/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png",東森購物二台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=174
+#EXTINF:-1 group-title="旅游时尚",東森購物三台
+https://cdn.19891230.eu.org/4gtv/4gtv-live048/index.m3u8
+http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png",東森購物三台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=287
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png",東森購物四台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=286
+#EXTINF:-1 group-title="旅游时尚",東森購物五台
+https://cdn.19891230.eu.org/4gtv/4gtv-live0499/index.m3u8
+http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="旅游时尚",東森購物一台
+https://cdn.19891230.eu.org/4gtv/4gtv-live047/index.m3u8
+http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png",東森購物一台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=173
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live114_mobile.png",東森新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png",東森新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+#EXTINF:-1 group-title="综合",动物星球
+http://125.227.210.55:3054/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",非凡新闻
+http://125.227.210.55:1086/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",公视
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 group-title="综合",公视
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 group-title="综合",公视
+http://125.227.210.55:3024/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",公视台语
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1 group-title="综合",公视台语
+http://125.227.210.55:3082/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",公视戏剧
+https://cdn12.178.indevs.in/163189/2973b910e7719c08
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png",公视戏剧
+https://ha.msbot.dpdns.org/4gtv_api.php?id=7
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png",滾動力rollor
+https://ha.msbot.dpdns.org/4gtv_api.php?id=249
+#EXTINF:-1 group-title="新闻财经",国会频道1
+http://125.227.210.55:3094/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",国会频道2
+http://125.227.210.55:3095/VideoInput/play.ts
+#EXTINF:-1 group-title="音乐综艺",韓國娛樂台 KMTV
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv016/index.m3u8
+http://106.107.234.186:50007/4gtv-4gtv016/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png",韓國娛樂台 KMTV
+https://ha.msbot.dpdns.org/4gtv_api.php?id=446
+#EXTINF:-1 group-title="电影戏剧",好莱坞电影
+http://125.227.210.55:4049/VideoInput/play.ts
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png",好消息
+https://ha.msbot.dpdns.org/4gtv_api.php?id=9
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png",好消息2台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=8
+#EXTINF:-1 group-title="综合",华视
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1 group-title="综合",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="综合",华视
+http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",华视教育体育文化
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1 group-title="综合",华视教育体育文化
+http://125.227.210.55:3092/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",华视新闻资讯
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 group-title="新闻财经",华视新闻资讯
+http://125.227.210.55:3093/VideoInput/play.ts
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png",華視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=6
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png",華視新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png",華視新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=34
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png",寰宇新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=262
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png",寰宇新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=36
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png",寰宇新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+#EXTINF:-1 group-title="综合",寰宇新聞台
+https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
+http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合",寰宇新聞台
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
+http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png",金光布袋戏
+https://ha.msbot.dpdns.org/4gtv_api.php?id=236
+#EXTINF:-1 group-title="电影戏剧",金光布袋戏
+https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+#EXTINF:-1 group-title="电影戏剧",金光布袋戏
+http://o11.163189.xyz/stream/live/jgbdx/
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png",经典电影台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=201
+#EXTINF:-1 group-title="电影戏剧",经典电影台
+https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png",經典卡通台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=202
+#EXTINF:-1 group-title="儿童卡通",精选动漫台
+https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png",精選動漫台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=204
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png",靖天电影台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=82
+#EXTINF:-1 group-title="电影戏剧",靖天电影台
+https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png",靖天卡通台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=15
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png",靖天日本台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=22
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png",靖天戏剧台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=116
+#EXTINF:-1 group-title="电影戏剧",靖天戏剧台
+https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png",靖天映画
+https://ha.msbot.dpdns.org/4gtv_api.php?id=42
+#EXTINF:-1 group-title="电影戏剧",靖天映画
+https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png",靖天育樂台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=83
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png",靖天資訊台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=88
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png",靖天综合台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=21
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png",靖洋卡通
+https://ha.msbot.dpdns.org/4gtv_api.php?id=59
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png",靖洋戏剧台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=118
+#EXTINF:-1 group-title="电影戏剧",靖洋戏剧台
+https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png",鏡電視新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=268
+#EXTINF:-1 group-title="综合",客家電視台
+http://125.227.210.55:3087/VideoInput/play.ts
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png",客家電視台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=107
+#EXTINF:-1 group-title="电影戏剧",龙华电影
+http://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 group-title="电影戏剧",龙华经典
+http://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 group-title="电影戏剧",龙华偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 group-title="电影戏剧",龙华日韩
+http://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 group-title="电影戏剧",龙华戏剧
+http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 group-title="电影戏剧",龙祥时代
+http://125.227.210.55:1084/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",龙祥时代
+https://smt.1678520.xyz/163189/lxsd
+#EXTINF:-1 group-title="综合",民视
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
+http://74.91.26.218:82/live/ftv.m3u8
+rtmp://f13h.mine.nu/sat/tv051
+https://stream1.freetv.fun/3de1bef9bfa7e28ddac0d0c4982736636d3b61978f2f2525d9133f7afcff0884.ctv
+http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合",民视
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 group-title="综合",民视
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 group-title="综合",民视
+http://125.227.210.55:8093/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",民视台湾
+http://125.227.210.55:3085/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",民视台湾
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 group-title="新闻财经",民视新闻
+http://211.72.174.95:8117/0.ts
+#EXTINF:-1 group-title="新闻财经",民视新闻
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="新闻财经",民视新闻
+http://125.227.210.55:3017/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",民视影剧台
+https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=3
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=246
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_pc.webp",民視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=468
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png",民視第一台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=1
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png",民視第一台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=254
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_pc.webp",民視第一台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=470
+#EXTINF:-1 group-title="综合",民視第一台
+http://125.227.210.55:3084/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",民視第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png",民視旅遊
+https://ha.msbot.dpdns.org/4gtv_api.php?id=61
+#EXTINF:-1 group-title="运动体育",民視旅遊
+https://cdn.19891230.eu.org/4gtv/litv-ftv07/index.m3u8
+https://stream1.freetv.fun/3439333a186efc0756e2eba2d5dadafc25d63abc56ae450e1d9df49c0180668d.m3u8
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_pc.webp",民視台灣台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=469
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png",民視台灣台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=255
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png",民視台灣台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=2
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png",民視新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=31
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png",民視新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=257
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_pc.webp",民視新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=467
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png",民视影剧台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=24
+#EXTINF:-1 group-title="音乐综艺",民視綜藝
+https://cdn.19891230.eu.org/4gtv/4gtv-4gtv004/index.m3u8
+https://stream1.freetv.fun/51da87decd2f08e9452c87b45ae332fee7d780327a457e8739a68758ed98c8c5.ctv
+http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png",民視綜藝
+https://ha.msbot.dpdns.org/4gtv_api.php?id=16
+#EXTINF:-1 group-title="儿童卡通",尼克兒童頻道
+https://cdn.19891230.eu.org/4gtv/4gtv-live105/index.m3u8
+http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="儿童卡通" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png",尼克兒童頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=185
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png",人間衛視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=210
+#EXTINF:-1 group-title="综合",三立台湾
+http://125.227.210.55:3020/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",三立新闻
+http://125.227.210.55:3022/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png",三立新聞iNEWS
+https://ha.msbot.dpdns.org/4gtv_api.php?id=229
+#EXTINF:-1 group-title="综合",三立新聞iNEWS
+https://cdn.19891230.eu.org/4gtv/4gtv-live089/index.m3u8
+https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
+https://stream1.freetv.fun/badd2c471b785d2032379719c9b0e85c841d1fbff319e8d6cd17683cd807314e.m3u8
+http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+http://106.107.242.201:50007/iNEWS/index.m3u8?token=gQ0VSbIPIRJr5Kgtubw6722JL7sSeEiG2IKAuNAVUDaBtHN00CHKJvJiI4lksQic
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png",三立综合台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=169
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png",時尚運動X
+https://ha.msbot.dpdns.org/4gtv_api.php?id=69
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv411_mobile.png",時尚運動X
+https://ha.msbot.dpdns.org/4gtv_api.php?id=277
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png",視納華仁紀實頻道
+https://ha.msbot.dpdns.org/4gtv_api.php?id=38
+#EXTINF:-1 group-title="综合",台视
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 group-title="综合",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 group-title="综合",台视
+http://125.227.210.55:3018/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 group-title="新闻财经",台视财经
+http://125.227.210.55:3090/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 group-title="新闻财经",台视新闻
+http://125.227.210.55:3089/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 group-title="综合",台视综合
+http://125.227.210.55:3091/VideoInput/play.ts
+#EXTINF:-1 group-title="旅游时尚",探索亚洲
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",天映经典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 group-title="电影戏剧",天映频道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 group-title="电影戏剧",纬来电影
+http://125.227.210.55:1082/VideoInput/play.ts
+#EXTINF:-1 group-title="电影戏剧",纬来电影
+https://smt.1678520.xyz/163189/wldy
+#EXTINF:-1 group-title="电影戏剧",纬来日本
+http://125.227.210.55:1083/VideoInput/play.ts
+#EXTINF:-1 group-title="运动体育",纬来体育
+http://125.227.210.55:7155/VideoInput/play.ts
+#EXTINF:-1 group-title="运动体育",纬来体育
+https://smt.1678520.xyz/163189/wlty
+#EXTINF:-1 group-title="电影戏剧",纬来戏剧
+https://smt.1678520.xyz/163189/wlxj
+#EXTINF:-1 group-title="音乐综艺",緯來育樂HD
+https://cdn.19891230.eu.org/api/VL-E/index.m3u8
+http://211.23.95.147:18881/live/70_h265.ts
+http://192.129.226.68:5678/live/stream-fdaf177a-3050-4102-8d70-f8160698b2f8/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="综合",緯來综合HD
+https://cdn.19891230.eu.org/api/VL-ONTV/index.m3u8
+https://tv123.cc.cd/live.php/?ch=1244a5e8433
+http://211.23.95.147:18881/live/26_h265.ts
+https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykA_uiEpHvW03tNX4HngqJnGzfHmgPSIB9CXLj3ovIrxDJIHt1drFnazqDOw_YzFTfMA5eIk3p9r3cwIQFU5cpfdb46Yrp_4-ygB0D7K8DEktWz0apes_3G6uQylmpLzDiHsKnTryo0sthj4TrINlSY6xYdWNOmoGD0OYxkOnvsu2WRKzud8UPVeERrSMQGtUw.m3u8?u=1756878715
+https://gptapi.passwdword.xyz/live/encrypted/MThmYjBlMmIwZmU4ZDFkODI2ZGRkNzAzOGZmMDQzYjM6Zjc4YTdiOTZkMTNlNjU2NzNiNzI4NGU4ZDEyYjc1ZmZiN2Y5YTg5M2FmN2U5ZDkyOGNiOThhOWE2ZjUxNGY4OTkwZTEyMzc1N2M1ZGUxZmE4YjA1ZmJiM2RmZGZhYTkxMjVhMDZjN2M2M2I4YmEwOTllMWIyMDNlMjhiNzcxMDEzYTZiOGNiMTIwZTcxMTRmMzRlZTkwN2FjMjdkOWE3MWRkMDEwZTJhZTQ4YThkOGQ5ZjlkMDExZjU4OGU5YzRiNGM4NDU1MGU4NmQ1M2MwMjcxMGQzNGI1ZDMzOTU4OWM5YWNmZmI2NjQwMzc1M2UyMmMxOTE2OGNmZDZmYTQ3Y2E5NDYyNDk0ZTRkNDA0Yjg4NzgwZGI5Yjc3ZjBkMDVlZGQzNDVhMTQ3NjAzOWZkZjkyZWIwMjJjMDBiMjZiOGNjNWI4ZjYyZTdkOTM3MjMyYmJkNDQxMWNjZDJjMDIxMTM2OWNmYjUyNmQyNTk5MTJlNWIzMmNmMWJjMjI5NjVh?username=tg_0ypy6s61
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv038_mobile.png",香蕉直擊台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=94
+#EXTINF:-1 group-title="儿童卡通",小公视
+http://74.91.26.218:82/live/ptsse.m3u8
+#EXTINF:-1 group-title="儿童卡通",小公视
+http://125.227.210.55:3086/VideoInput/play.ts
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.webp",幸福空間居家台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=123
+#EXTINF:-1 group-title="旅游时尚",亚洲旅游
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-dash-hls/da-cl-fhd-4s-ma/ll-test-dash-hls.mpd
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png",亚洲旅游
+https://ha.msbot.dpdns.org/4gtv_api.php?id=250
+#EXTINF:-1 group-title="旅游时尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png",亚洲旅游
+https://ha.msbot.dpdns.org/4gtv_api.php?id=261
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png",影迷数位电影台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=40
+#EXTINF:-1 group-title="电影戏剧",影迷数位电影台
+https://cdn12.178.indevs.in/163189/a643783ec587540e
+#EXTINF:-1 group-title="电影戏剧" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png",影迷數位紀實台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=445
+#EXTINF:-1 group-title="综合",原住民电视
+http://125.227.210.55:3088/VideoInput/play.ts
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp",原住民族電視台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=124
+#EXTINF:-1 group-title="运动体育" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png",智林體育台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=58
+#EXTINF:-1 group-title="综合",中视
+http://211.72.174.95:8113/0.ts
+#EXTINF:-1 group-title="综合",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="综合",中视
+http://125.227.210.55:3049/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 group-title="综合",中视经典
+http://125.227.210.55:3080/VideoInput/play.ts
+#EXTINF:-1 group-title="综合",中视菁采
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1 group-title="综合",中视菁采
+http://125.227.210.55:3081/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="新闻财经",中视新闻
+http://125.227.210.55:3079/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png",中视新闻
+https://ha.msbot.dpdns.org/4gtv_api.php?id=33
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png",中视新闻
+https://ha.msbot.dpdns.org/4gtv_api.php?id=258
+#EXTINF:-1 group-title="综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png",中視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=4
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png",中天新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=260
+#EXTINF:-1 group-title="新闻财经" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png",中天新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+#EXTINF:-1 group-title="电影戏剧",中天娱乐
+http://125.227.210.55:3044/VideoInput/play.ts
+#EXTINF:-1 group-title="新闻财经",中天综合
+http://125.227.210.55:4048/VideoInput/play.ts
+#EXTINF:-1 group-title="音乐综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png",豬哥亮歌廳秀
+https://ha.msbot.dpdns.org/4gtv_api.php?id=113
+
